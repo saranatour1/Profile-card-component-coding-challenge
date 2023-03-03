@@ -14,8 +14,8 @@ body {
   max-width: 1440px;
   min-width: 375px;
   margin: 0 auto;
-  background-image: url("images/bg-pattern-top.svg"),
-    url("images/bg-pattern-bottom.svg");
+  background-image: url(/images/bg-pattern-top.svg),
+    url(/images/bg-pattern-bottom.svg);
   background-repeat: repeat-x, repeat-y;
   background-size: 500px, 500px;
   background-position: top left, bottom right;
@@ -32,7 +32,7 @@ body {
   background-color: #fff;
 }
 .background-blue {
-  background-image: url('images/bg-pattern-card.svg') !important;
+  background-image: url(/images/bg-pattern-card.svg) !important;
   background-size: contain;
   background-repeat: repeat;
   width: 100%;
