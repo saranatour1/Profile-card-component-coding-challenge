@@ -17,7 +17,7 @@ export default {
         'kumbh-sans':['Kumbh Sans Variable', 'sans-serif'],
       },
       backgroundImage:{
-        'pattern':'url(./src/assets/bg-pattern-card.svg)',
+        'pattern':'url(./assets/bg-pattern-card.svg)',
       }
     },
   },
